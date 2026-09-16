@@ -1,1 +1,1 @@
-"Ligne modifiee par B" 
+"Ligne modifiee par A et B (Résolution)" 
